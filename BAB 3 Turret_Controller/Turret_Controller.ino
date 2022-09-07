@@ -16,8 +16,8 @@ Servo cartridge_servo;
 Servo launcher_servo;
 
 // Ganti dengan nama serta password WiFi yang akan digunakan
-const char* ssid = "Anjay";
-const char* password = "12345678";
+const char* ssid = "ISI DENGAN SSID WIFI";
+const char* password = "ISI DENGAN PASSWORD WIFI";
 
 // Membuat objek AsyncWebServer di port 80
 AsyncWebServer server(80);
